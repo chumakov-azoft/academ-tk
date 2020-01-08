@@ -1,0 +1,227 @@
+{
+
+"players":[
+{
+"name":"Карасенко Александр Анатольевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"477.73"
+},{
+"name":"Чумаков Денис Викторович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"296.19"
+},{
+"name":"Аникин Роман Викторович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"646.18"
+},{
+"name":"Еникеев Тимур Русланович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"480"
+},{
+"name":"Бабенко Дмитрий Андревич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"30.81"
+},{
+"name":"Чернов Евгений Григорьевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"600"
+},{
+"name":"Ефременко Всеволод Даниилович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"506.82"
+},{
+"name":"Ефременко Юрий Даниилович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"614.08"
+},{
+"name":"Колодный Денис Владимирович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"488.22"
+},{
+"name":"Свиязов А",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"200"
+},{
+"name":"Коршунов Андрей Александрович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"556.7"
+},{
+"name":"Вялков Егор Владимирович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"605.33"
+},{
+"name":"Мельников Андрей Максимович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"456.28"
+},{
+"name":"Васильев Александр Владимирович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"307.79"
+},{
+"name":"Насыбуллов Тимур Ринатович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"410.37"
+},{
+"name":"Троицкий Федор Сергеевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"296.83"
+},{
+"name":"Никитенко Антон Иванович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"894.21"
+},{
+"name":"Карманова Яна Ивановна",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"356.36"
+},{
+"name":"Переладов Ярослав Константинович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"442.72"
+},{
+"name":"Бессмертный Иван Андреевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"383.03"
+},{
+"name":"Переладов Константин Геннадьевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"127.32"
+},{
+"name":"Борисов Василий Александрович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"125.14"
+},{
+"name":"Солдатов Евгений Анатольевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"448.4"
+},{
+"name":"Абрамов Александр Александрович",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"531.53"
+},{
+"name":"Черепанов Никита Сергеевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"655.89"
+},{
+"name":"Белоусов Александр Сергеевич",
+"logo":"events/pairs-1/images/azoft.svg",
+"location":"Новосибирская обл., Новосибирск",
+"rating":"630.94"
+}],
+  "pairs":[{
+    "name":"Черепанов Никита Сергеевич",
+    "name2":"Белоусов Александр Сергеевич",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Черепанов Н. и Белоусов А.",
+    "rating":1287
+  },{
+    "name":"Никитенко Антон Иванович",
+    "name2":"Карманова Яна Ивановна",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Никитенко А. и Карманова Я.",
+    "rating":1251
+  },{
+    "name":"Коршунов Андрей Александрович",
+    "name2":"Вялков Егор Владимирович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Коршунов А. и Вялков Е.",
+    "rating":1162
+  },{
+    "name":"Ефременко Всеволод Даниилович",
+    "name2":"Ефременко Юрий Даниилович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Ефременко В. и Ефременко Ю.",
+    "rating":1121
+  },{
+    "name":"Аникин Роман Викторович",
+    "name2":"Еникеев Тимур Русланович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Аникин Р. и Еникеев Т.",
+    "rating":1046
+  },{
+    "name":"Солдатов Евгений Анатольевич",
+    "name2":"Абрамов Александр Александрович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Солдатов Е. и Абрамов А.",
+    "rating":980
+  },{
+    "name":"Переладов Ярослав Константинович",
+    "name2":"Бессмертный Иван Андреевич",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Переладов Я. и Бессмертный И.",
+    "rating":826
+  },{
+    "name":"Карасенко Александр Анатольевич",
+    "name2":"Чумаков Денис Викторович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Карасенко А. и Чумаков Д.",
+    "rating":774
+  },{
+    "name":"Мельников Андрей Максимович",
+    "name2":"Васильев Александр Владимирович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Мельников А. и Васильев А.",
+    "rating":764
+  },{
+    "name":"Насыбуллов Тимур Ринатович",
+    "name2":"Троицкий Федор Сергеевич",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Насыбуллов Т. и Троицкий Ф.",
+    "rating":707
+  },{
+    "name":"Колодный Денис Владимирович",
+    "name2":"Свиязов А",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Колодный Д. и Свиязов А.",
+    "rating":688
+  },{
+    "name":"Бабенко Дмитрий Андревич",
+    "name2":"Чернов Евгений Григорьевич",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Бабенко Д. и Чернов Е.",
+    "rating":631
+  },{
+    "name":"Переладов Константин Геннадьевич",
+    "name2":"Борисов Василий Александрович",
+    "logo":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "logo2":"events/08.01.2020/events/pairs-1/images/azoft.svg",
+    "short":"Переладов К. и Борисов В.",
+    "rating":252
+  }]
+}
